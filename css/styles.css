@@ -1,0 +1,86 @@
+a{
+    color: white;
+}
+
+h1 {
+    font-size: 4em;
+}
+
+h5 {
+    font-size: 2em;
+}
+
+.navbar-brand {
+    font-size: 3rem;
+}
+
+/* navbar */
+
+.navbar {
+    background-color: black;
+    padding: 3%;
+}
+
+
+/* main-content */
+
+.main-content {
+    padding-top: 20%;
+}
+
+/* container */
+
+.container-fluid {
+    text-align: center;
+}
+
+.content {
+    margin: 1em;
+    padding: 7px 4px 5px;
+    text-align: start;
+    font-size: 2rem;
+    line-height: 150%;
+    letter-spacing: normal;
+}
+
+.button {
+    size: 3%;
+}
+
+/* sem button */
+
+
+
+/* sub-buttons */
+
+.buttons-sub {
+    padding: 10% 0;
+}
+
+.sub-button{
+    padding: 30px 0 30px 0;
+}
+
+/* unit -buttons */
+
+.buttons-unit {
+    padding: 6% 0;
+}
+
+.unit-button{
+    padding: 20px 0 20px 0;
+}
+
+/* bottom */
+
+.bottom {
+    padding: 20px 0 10px 0;
+    font-size: 15px;
+    position: relative;
+    top: 30rem; 
+
+}
+
+.heading{
+    padding-bottom: 4%;
+}
